@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/lyle/git/ros-quadrupedal/devel/setup.sh
